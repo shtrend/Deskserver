@@ -28,14 +28,8 @@
 
 ## Intro
 
-In the past I've had some problems sharing my screen with coworkers using
-corporate chatting solutions like Microsoft Teams. I wanted to show them some
-of my code, but either the stream lagged several seconds behind or the quality
-was so poor that my colleagues couldn't read the code. Or both.
-
-That's why I created screego. It allows you to share your screen with good
-quality and low latency. Screego is an addition to existing software and 
-only helps to share your screen. Nothing else (:.
+过去，在使用 Microsoft Teams 等企业聊天解决方案与同事共享屏幕时，我遇到了一些问题。我想向他们展示我的一些代码，但要么是视频流延迟了几秒钟，要么是质量太差，我的同事无法阅读代码。或者两者兼而有之。
+这就是我创建 screego 的原因。它允许您以高质量和低延迟共享您的屏幕。Screego 是对现有软件的补充，仅帮助您共享屏幕。没有其他功能
 
 ## Features
 
